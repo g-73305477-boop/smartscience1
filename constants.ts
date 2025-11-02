@@ -1,0 +1,26 @@
+import { Item } from './types';
+
+export const GAME_ITEMS: Item[] = [
+  { id: 1, name: 'Creeper', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Creeper.png', isLiving: true },
+  { id: 2, name: 'Stone Block', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Stone.png', isLiving: false },
+  { id: 3, name: 'Pig', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Pig.png', isLiving: true },
+  { id: 4, name: 'Diamond Pickaxe', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Diamond_Pickaxe.png', isLiving: false },
+  { id: 5, name: 'Cow', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Cow.png', isLiving: true },
+  { id: 6, name: 'Crafting Table', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Crafting_Table.png', isLiving: false },
+  { id: 7, name: 'Zombie', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Zombie.png', isLiving: true },
+  { id: 8, name: 'Chest', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Chest.gif', isLiving: false },
+  { id: 9, name: 'Sheep', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Sheep.png', isLiving: true },
+  { id: 10, name: 'Torch', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Torch.gif', isLiving: false },
+  { id: 11, name: 'Skeleton', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Skeleton.png', isLiving: true },
+  { id: 12, name: 'Dirt Block', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Dirt.png', isLiving: false },
+  { id: 13, name: 'Chicken', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Chicken.png', isLiving: true },
+  { id: 14, name: 'Furnace', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Furnace.gif', isLiving: false },
+  { id: 15, name: 'Spider', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Spider.png', isLiving: true },
+  { id: 16, name: 'Bed', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Red_Bed.png', isLiving: false },
+  { id: 17, name: 'Villager', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Villager.png', isLiving: true },
+  { id: 18, name: 'Diamond Sword', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Diamond_Sword.png', isLiving: false },
+  { id: 19, name: 'Wolf', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Wolf.png', isLiving: true },
+  { id: 20, name: 'Oak Log', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Oak_Log.png', isLiving: false },
+  { id: 21, name: 'Axolotl', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Axolotl.png', isLiving: true },
+  { id: 22, name: 'Anvil', imageUrl: 'https://minecraft.fandom.com/wiki/Special:Filepath/Anvil.png', isLiving: false },
+];

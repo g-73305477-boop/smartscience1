@@ -1,0 +1,5 @@
+{
+  "name": "Minecraft: Living or Not?",
+  "description": "An interactive web game with a Minecraft theme where players classify items as either living or non-living things to test their knowledge.",
+  "requestFramePermissions": []
+}
